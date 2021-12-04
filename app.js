@@ -189,10 +189,10 @@ console.log(joe.scopeArrow());
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-// The Window Object
+/* The Window Object*/
 
 // 2. What is "this" when joe.scopeArrow() is invoked?
-//The Window Object
+/*The Window Object*/
 
 // 3. Explain why "this" is different when an arrow function is used.
-// An arrow function does not have it's own "this", "this" in an arrow function refers to the scope of the closest non-arrow function parent.
+/* An arrow function does not have it's own "this", "this" in an arrow function refers to the scope of the closest non-arrow function parent.*/
